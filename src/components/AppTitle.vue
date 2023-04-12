@@ -1,20 +1,18 @@
-:<template>
-  <div>
+<template>
+  <header>
     <h1>{{ title }}</h1>
-  </div>
+  </header>
 </template>
 
 <script>
 export default {
-  data () {
+  data() {
 
     return {
-      title:"La mia prima app con Vite!" 
+      title: "La mia prima app con Vite!"
     }
   }
 }
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
