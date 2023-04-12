@@ -6,6 +6,7 @@
 
 <script>
 export default {
+  name:"app-title",
   data() {
 
     return {
