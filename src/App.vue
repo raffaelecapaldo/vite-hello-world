@@ -1,8 +1,9 @@
 :<template>
-  <div>
     <AppTitle />
     <AppHero />
-  </div>
+    <div class="vue-logo d-flex justify-content-center w-25 mx-auto">
+      <img class="img-fluid" src="src/assets/logo.svg" alt="">
+    </div>
 </template>
 
 <script>
